@@ -1,13 +1,19 @@
 # SQL
 
-This repository contains required documentation of MySQL and output files</br>
+This repository contains python basics.</br>
+Topics Covered: </br>
+1)Data types</br>
+2)Operators</br>
+3)Conditional statements</br>
+4)Loops</br>
+5)Functions</br>
+6)String-slicing,functions,operations</br>
+7)Built-in data types</br>
+8)Classes and objects</br>
 
 sources:</br>
-https://www.tutorialspoint.com/mysql/mysql-data-types.htm</br>
-source link:https://www.w3schools.com/sql/sql_insert.asp</br>
-https://www.youtube.com/watch?v=D_wNQR3LeeM&t=12543s</br></br>
-
-git link: https://github.com/chetu26/SQL
+https://www.educative.io/module/lesson/learn-oop-in-python/x1Rmm6m3rl3</br>
+git link: https://github.com/chetu26/Python
 
 
 
