@@ -1,4 +1,4 @@
-# SQL
+# Python
 
 This repository contains python basics.</br>
 Topics Covered: </br>
